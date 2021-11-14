@@ -14,7 +14,7 @@ Power BI's user interface is fairly intuitive for users familiar with Excel
 
 and its deep integration with other Microsoft products makes it a very versatile self-service tool that requires little upfront training.
 
-**[Power BI Desktop]()**
+**[Power BI Desktop](https://www.microsoft.com/en-us/download/details.aspx?id=58494)**
 
 # Preview
 
@@ -23,3 +23,6 @@ and its deep integration with other Microsoft products makes it a very versatile
 ![Image2](https://github.com/Anuragtsl/Power_BI-Adventure_Works_Report/blob/main/Images/2.png)
 
 ![Image3](https://github.com/Anuragtsl/Power_BI-Adventure_Works_Report/blob/main/Images/3.png)
+
+
+#Njoy!
