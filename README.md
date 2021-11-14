@@ -4,7 +4,7 @@ I have created an Analysis Report for Adventures Works.
 
 I have used Power BI Desktop for creating report.
 
-***Download the datasets from [here]()!***
+***Download the datasets from [here](https://github.com/Anuragtsl/Power_BI-Adventure_Works_Report/tree/main/AdventureWorks%2BCSV%2BFiles)!***
 
 # What is Power BI??
 
@@ -18,8 +18,8 @@ and its deep integration with other Microsoft products makes it a very versatile
 
 # Preview
 
-![Image1]()
+![Image1](https://github.com/Anuragtsl/Power_BI-Adventure_Works_Report/blob/main/Images/1.png)
 
-![Image2]()
+![Image2](https://github.com/Anuragtsl/Power_BI-Adventure_Works_Report/blob/main/Images/2.png)
 
-![Image3]()
+![Image3](https://github.com/Anuragtsl/Power_BI-Adventure_Works_Report/blob/main/Images/3.png)
