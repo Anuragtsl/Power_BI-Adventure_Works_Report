@@ -14,4 +14,12 @@ Power BI's user interface is fairly intuitive for users familiar with Excel
 
 and its deep integration with other Microsoft products makes it a very versatile self-service tool that requires little upfront training.
 
+**[Power BI Desktop]()**
+
 # Preview
+
+![Image1]()
+
+![Image2]()
+
+![Image3]()
